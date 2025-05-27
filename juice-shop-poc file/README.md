@@ -26,7 +26,3 @@
 ```
 {"userId":1,"email":"admin@juice-sh.op","route":"/rest/basket/1","method":"GET","timestamp":"2025-05-27T12:00:00.000Z"}
 ```
-
-## Notes
-- This PoC logs authenticated user activity into a local text file.
-- Future upgrades: dashboard UI, log filtering, database integration.
